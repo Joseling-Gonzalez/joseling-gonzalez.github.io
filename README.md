@@ -27,3 +27,5 @@ This portfolio was built using the following approaches:
 - Descriptive image alt attributes.
 
 
+Screenshot Lighthouse devtool in Chrome
+![Alt](./img/lighthouse.jpg)
